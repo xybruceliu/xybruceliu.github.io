@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"UIST":
+  url: https://uist.acm.org/
+  color: "#377eb8"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CHI":
+  url: https://chi.acm.org/
+  color: "#ff7f00"
+
+"ASSETS":
+  url: https://www.sigaccess.org/
+  color: "#984ea3"

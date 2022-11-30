@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "刘星宇"
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email <a href=mailto:xingyuliu@ucla.edu?subject="HTML link">xingyuliu@ucla.edu</a></p>
+    <p>Twitter <a href=https://twitter.com/liu_xingyu>@liu_xingyu</a></p>
+    <p><a target="_blank" href=https://scholar.google.com/citations?user=CTDSuK0AAAAJ>Google Scholar</a></p>
+    <p><a target="_blank" href=assets/pdf/bruceliu_cv.pdf>Curriculum vitae</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greetings! I am a Ph.D. student at the [UCLA HCI lab](https://hci.ucla.edu/) advised by Professor [Xiang 'Anthony' Chen](https://xac.is/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are in <b>Human-Computer Interaction (HCI)</b>, specifically in modeling, supporting and augmenting human abilities in a multimodal context. 
+Leveraging techniques from natural language processing, computer vision, deep learning and HCI, I create novel experiences for <b>accessibility</b>, <b>communication</b> and <b>augmented reality</b>.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work has been recognized by an [ACM UIST Best Paper Award 🏆](https://programs.sigchi.org/uist/2022/awards/best-papers) (2022), and a [Distinguished Master’s Thesis Research Award 🎓 ](https://www.ee.ucla.edu/ece-department-2021-2022-outstanding-student-awards-announced/) (2022) at UCLA. I also held research internships at [Google Labs](https://research.google/) and [Snap Research](https://www.snap.com/en-US).
