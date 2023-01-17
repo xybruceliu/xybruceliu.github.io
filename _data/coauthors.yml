@@ -29,3 +29,15 @@
 "Chilton":
   - firstname: ["Lydia B.", "Lydia"]
     url: https://www.engineering.columbia.edu/faculty/lydia-chilton
+
+
+"Du":
+  - firstname: ['Ruofei']
+    url: https://duruofei.com/
+
+"Olwal":
+  - firstname: ['Alex']
+    url: https://www.olwal.com/
+"Chi":
+  - firstname: ['Peggy']
+    url: http://www.peggychi.me/

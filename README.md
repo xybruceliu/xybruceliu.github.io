@@ -219,6 +219,7 @@ Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](
 ```bash
 $ git clone git@github.com:<your-username>/<your-repo-name>.git
 $ cd <your-repo-name>
+$ echo '3.1.3' > .ruby-version
 $ bundle install
 $ bundle exec jekyll serve
 ```
