@@ -7,7 +7,7 @@ subtitle: "刘星宇"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email <a href=mailto:xingyuliu@ucla.edu?subject="HTML link">xingyuliu@ucla.edu</a></p>
