@@ -231,7 +231,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Liu, Liu*]
-  first_name: [Xingyu, Xingyu "Bruce"]
+  first_name: [Xingyu, Xingyu "Bruce", Xingyu Bruce]
 
   style: apa
   locale: en
