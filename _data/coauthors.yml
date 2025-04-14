@@ -49,3 +49,24 @@
 "Kim":
   - firstname: ['David']
     url: https://davidkim.de/
+
+
+"Fang":
+  - firstname: ["Shitao"]
+    url: https://stfang.me/
+
+"Shi":
+  - firstname: ["Weiyan"]
+    url: https://wyshi.github.io/
+
+"Wu":
+  - firstname: ["Chien-Sheng"]
+    url: https://jasonwu0731.github.io/
+
+"Igarashi":
+  - firstname: ["Takeo"]
+    url: https://www-ui.is.s.u-tokyo.ac.jp/~takeo/
+
+"Xia":
+  - firstname: ["Haijun"]
+    url: https://hci.ucsd.edu/haijunxia
